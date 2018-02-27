@@ -13,7 +13,7 @@
         <p>And the not-to-miss Rooftop Cafe is a great place for travelers and locals to engage over drinks, food, and good
             conversation. </p>
         <p>To learn more about the Landon Hotel in the West End, browse our website and download our handy information sheet.</p>
-        <p>{{ $last_updated }}</p>
+        <p><strong>{{ $last_updated }}</strong></p>
     </div>
 </div>
 
