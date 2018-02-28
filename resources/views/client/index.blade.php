@@ -32,7 +32,9 @@
 
             </tbody>
         </table>
+
         {{ $clients->fragment('')->links() }}
+
 
     </div>
 </div>
