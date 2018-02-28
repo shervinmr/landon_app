@@ -27,7 +27,7 @@ class ClientController extends Controller
 
        $data['clients'] = $this->client->paginate(10);
 
-       return view('client/index', $data);
+       return view('client/index', $data); 
 
     }
 
